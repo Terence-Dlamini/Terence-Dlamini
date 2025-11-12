@@ -11,3 +11,4 @@
 ### Current Progress
 - ✅ Completed **Pre-Security pathway** on TryHackMe.  
 - ✅ Earned multiple **OCI certifications** (Networking, Data Science, Architect Associate, Foundations, AI Foundations). 
+- ✅ Completed **Introduction to Cybersecurity** course on Cisco
